@@ -1,0 +1,13 @@
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.exe
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.deps.json
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.runtimeconfig.json
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.runtimeconfig.dev.json
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.dll
+C:\Users\platt\workspace\cSharp\firstCSharpProject\bin\Debug\netcoreapp3.1\firstCSharpProject.pdb
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.csprojAssemblyReference.cache
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.AssemblyInfoInputs.cache
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.AssemblyInfo.cs
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.dll
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.pdb
+C:\Users\platt\workspace\cSharp\firstCSharpProject\obj\Debug\netcoreapp3.1\firstCSharpProject.genruntimeconfig.cache

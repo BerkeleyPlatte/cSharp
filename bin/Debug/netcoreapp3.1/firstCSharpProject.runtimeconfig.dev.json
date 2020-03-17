@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\platt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\platt\\.nuget\\packages"
+    ]
+  }
+}
